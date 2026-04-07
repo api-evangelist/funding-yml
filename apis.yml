@@ -1,7 +1,6 @@
 aid: funding-yml
 name: FUNDING.yml
-description: GitHub configuration file specifying funding platforms and links for
-  project sponsorship, displayed as a Sponsor button on the repository page.
+description: GitHub configuration file specifying funding platforms and links for project sponsorship, displayed as a Sponsor button on the repository page.
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
@@ -12,10 +11,10 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/funding-yml/refs/heads/main/apis.yml
 specificationVersion: '0.19'
 tags:
-  - Open Source
-  - Sponsorship
-  - Repository
   - GitHub
+  - Open Source
+  - Repository
+  - Sponsorship
 apis: []
 common: []
 maintainers:
