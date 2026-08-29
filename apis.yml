@@ -2,6 +2,17 @@ aid: funding-yml
 name: FUNDING.yml
 description: GitHub configuration file specifying funding platforms and links for project sponsorship, displayed as a Sponsor button on the repository page. Supports platforms including GitHub Sponsors, Patreon, Open Collective, Ko-fi, Liberapay, Tidelift, Buy Me a Coffee, IssueHunt, Polar, thanks.dev, LFX Mentorship, and custom URLs.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
