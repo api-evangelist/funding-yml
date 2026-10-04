@@ -35,7 +35,7 @@ url: >-
 specificationVersion: '0.23'
 tags:
   - GitHub
-  - Open-Source
+  - Open Source
   - Repository
   - Sponsorship
   - Funding
@@ -47,6 +47,7 @@ tags_raw:
   - Sponsorship
   - Funding
   - Standard
+  - Open-Source
 apis: []
 common:
   - type: Documentation
